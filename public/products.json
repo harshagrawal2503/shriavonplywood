@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "title": "Premium Plywood",
+      "description": "High quality plywood for furniture and interiors.",
+      "category": "plywood",
+      "price": 1200,
+      "image": "/images/plywood.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Laminates",
+      "description": "Durable hardware fittings for doors and cabinets.",
+      "category": "laminates",
+      "price": 300,
+      "image": "/images/laminates.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Doors",
+      "description": "Flexible and strong plumbing pipes.",
+      "category": "doors",
+      "price": 450,
+      "image": "/images/doors.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Aluminium Sheets",
+      "description": "Lightweight and strong aluminium sheets for construction.",
+      "category": "aluminium",
+      "price": 2000,
+      "image": "/images/aluminium.jpg"
+    }
+  ]
+  
