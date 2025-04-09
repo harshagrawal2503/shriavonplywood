@@ -1,6 +1,6 @@
 # Shri Avon Plywod
 
-A Plywood shop in Kotra Road,Raigarh,Chhattisgarh known for its quality and core values.
+A Plywood shop in Kotra Road,Raigarh,Chhattisgarh known for its quality and long lasting products.
 
 
 ## Demo
