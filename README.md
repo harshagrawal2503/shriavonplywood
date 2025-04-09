@@ -1,6 +1,6 @@
-# E-Commerce Website
+# Shri Avon Plywod
 
-A Ecommerce Website made with React.js Framework.
+A Plywood shop in Kotra Road,Raigarh,Chhattisgarh known for its quality and core values.
 
 
 ## Demo
@@ -15,7 +15,7 @@ https://shriavonplywood.vercel.app/
 
 ## Screenshots
 
-![App Screenshot]()
+<!-- ![App Screenshot]() -->
 
 
 
