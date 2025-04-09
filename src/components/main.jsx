@@ -7,8 +7,8 @@ const Home = () => {
         <div className="card bg-dark border-0 mx-3">
           <img
             className="card-img img-fluid rounded" 
-            style={{ height: "800px" }}
-            src="./assets/shriavon.jpg"
+            style={{ height: "600px" }}
+            src="./images/bannersite.jpg"
             alt="Card"
           />
         </div>
