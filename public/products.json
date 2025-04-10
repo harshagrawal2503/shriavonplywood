@@ -1,35 +1,242 @@
 [
-    {
-      "id": 1,
-      "title": "Premium Plywood",
-      "description": "High quality plywood for furniture and interiors.",
-      "category": "plywood",
-      "price": 1200,
-      "image": "/images/plywood.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Laminates",
-      "description": "Durable hardware fittings for doors and cabinets.",
-      "category": "laminates",
-      "price": 300,
-      "image": "/images/laminates.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Doors",
-      "description": "Flexible and strong plumbing pipes.",
-      "category": "doors",
-      "price": 4000,
-      "image": "/images/doors.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Aluminium Sheets",
-      "description": "Lightweight and strong aluminium sheets for construction.",
-      "category": "aluminium",
-      "price": 2000,
-      "image": "/images/aluminium.jpg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Premium Plywood",
+    "description": "High quality plywood for furniture and interiors.",
+    "category": "plywood",
+    "price": 1200,
+    "image": "/images/plywood.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Laminates",
+    "description": "Durable hardware fittings for doors and cabinets.",
+    "category": "laminates",
+    "price": 300,
+    "image": "/images/laminates.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Doors",
+    "description": "Flexible and strong plumbing pipes.",
+    "category": "doors",
+    "price": 4000,
+    "image": "/images/doors.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Aluminium Sections",
+    "description": "Lightweight and strong aluminium section for partition in kilograms.",
+    "category": "aluminium",
+    "price": 400,
+    "image": "/images/aluminium.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Aluminium Sheets",
+    "description": "High-grade aluminium sheets for industrial and home use.",
+    "category": "aluminium",
+    "price": 700,
+    "image": "/images/aluminiumsheets.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Steel Pipes",
+    "description": "Durable steel pipes suitable for plumbing and structural use.",
+    "category": "pipes",
+    "price": 500,
+    "image": "/images/steelpipes.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Doorkits",
+    "description": "Complete door kits including handles, locks, and hinges.",
+    "category": "hardware",
+    "price": 1200,
+    "image": "/images/doorkits.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Aluminium Home Ladders",
+    "description": "Lightweight and sturdy aluminium ladders for household needs.",
+    "category": "ladders",
+    "price": 1800,
+    "image": "/images/ladders.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Industrial Ladders",
+    "description": "Heavy-duty ladders designed for industrial safety and durability.",
+    "category": "ladders",
+    "price": 4500,
+    "image": "/images/industrialladders.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Wooden Doors",
+    "description": "Premium wooden doors crafted for strength and elegance.",
+    "category": "doors",
+    "price": 3500,
+    "image": "/images/woodendoors.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Windows",
+    "description": "Customizable windows with sleek design and secure locking systems.",
+    "category": "windows",
+    "price": 2200,
+    "image": "/images/windows.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Curtain Brackets",
+    "description": "Stylish and sturdy curtain brackets for all curtain types.",
+    "category": "fittings",
+    "price": 250,
+    "image": "/images/curtainbrackets.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Aluminium Mesh",
+    "description": "Durable aluminium mesh ideal for windows and ventilation.",
+    "category": "mesh",
+    "price": 300,
+    "image": "/images/aluminium-mesh.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Bath Fittings - Towel Rod",
+    "description": "Chrome finish towel rod to add utility and elegance to bathrooms.",
+    "category": "bath-fittings",
+    "price": 450,
+    "image": "/images/towelrod.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Bath Fittings - Towel Ring",
+    "description": "Sleek towel ring for compact and organized bathrooms.",
+    "category": "bath-fittings",
+    "price": 200,
+    "image": "/images/towelring.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Glass Door Handles",
+    "description": "Elegant glass door handles with chrome finish.",
+    "category": "hardware",
+    "price": 550,
+    "image": "/images/glass-door-handles.jpg"
+  },
+  {
+    "id": 17,
+    "title": "PVC Edge Banding",
+    "description": "Durable PVC edge banding for a clean panel finish.",
+    "category": "laminates",
+    "price": 120,
+    "image": "/images/pvc-edge.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Modular Kitchen Baskets",
+    "description": "Stainless steel baskets for modular kitchen drawers.",
+    "category": "kitchen",
+    "price": 900,
+    "image": "/images/kitchen-basket.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Flush Doors",
+    "description": "Moisture resistant flush doors for interior applications.",
+    "category": "doors",
+    "price": 2800,
+    "image": "/images/flush-doors.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Aluminium Window Frames",
+    "description": "Durable and lightweight aluminium frames for windows.",
+    "category": "windows",
+    "price": 1600,
+    "image": "/images/aluminium-window-frame.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Shower Panels",
+    "description": "Modern shower panels with multiple water flow modes.",
+    "category": "bath-fittings",
+    "price": 5200,
+    "image": "/images/shower-panel.jpg"
+  },
+  {
+    "id": 22,
+    "title": "PVC Wall Panels",
+    "description": "Decorative and waterproof PVC wall panels.",
+    "category": "panels",
+    "price": 850,
+    "image": "/images/pvc-wall-panel.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Hydraulic Hinges",
+    "description": "Smooth-closing hydraulic hinges for cabinets.",
+    "category": "hardware",
+    "price": 180,
+    "image": "/images/hydraulic-hinges.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Glass Sliding Systems",
+    "description": "Track and roller systems for smooth glass door movement.",
+    "category": "doors",
+    "price": 3200,
+    "image": "/images/glass-sliding.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Curtain Rods",
+    "description": "Extendable curtain rods in various finishes and sizes.",
+    "category": "fittings",
+    "price": 500,
+    "image": "/images/curtain-rods.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Plumbing Fittings Set",
+    "description": "Full set of PVC plumbing fittings for residential use.",
+    "category": "pipes",
+    "price": 980,
+    "image": "/images/plumbing-fittings.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Kitchen Drawer Channels",
+    "description": "Soft-close telescopic channels for kitchen drawers.",
+    "category": "kitchen",
+    "price": 650,
+    "image": "/images/drawer-channels.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Wood Polish",
+    "description": "Glossy finish wood polish for doors and furniture.",
+    "category": "woodcare",
+    "price": 220,
+    "image": "/images/wood-polish.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Ceiling Light Panels",
+    "description": "LED ceiling light panels for home and office interiors.",
+    "category": "ceiling",
+    "price": 1100,
+    "image": "/images/ceiling-lights.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Wire Mesh Rolls",
+    "description": "Galvanized wire mesh for fencing and partitioning.",
+    "category": "mesh",
+    "price": 850,
+    "image": "/images/wire-mesh.jpg"
+  }
+]
